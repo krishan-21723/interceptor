@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: interceptor
+Implementation-Version: 3.0.23-
+Built-By: krishanchhimpa
+Implementation-Vendor-Id: com.interceptor
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/interceptor
+Created-By: Maven Integration for Eclipse
+
