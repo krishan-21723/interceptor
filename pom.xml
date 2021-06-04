@@ -21,7 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<httpcomponents.httpcore.version>4.4.8</httpcomponents.httpcore.version>
-		<httpcomponents.httpclient.version>4.5.4</httpcomponents.httpclient.version>
+		<httpcomponents.httpclient.version>4.5.13</httpcomponents.httpclient.version>
 		<httpcomponents.httpmime.version>4.5.4</httpcomponents.httpmime.version>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
